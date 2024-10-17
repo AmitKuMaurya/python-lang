@@ -42,3 +42,4 @@ def mutliArgs(**kwargs):
     print(kwargs);
 
 mutliArgs(name="Alice", age=30, city="New York");
+greet("amit","you will win a day !");
