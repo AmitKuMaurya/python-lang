@@ -78,7 +78,7 @@
 # [.readLines()] -->  it will return line in string of array which can be picked up by indexes.
 # [.readLine()] -->  it will return teh first line of file. 
 
-with open("./file-handling/data.txt", "r") as f:
+with open("./data.txt", "r") as f:
     print(f.readlines()) # it will return in array so, we can iterate also.
 
 
