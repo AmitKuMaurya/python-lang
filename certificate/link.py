@@ -1,0 +1,2 @@
+Link_Of_Certificate = 'https://moonshot.scaler.com/s/sl/bWHCqt-152?_gl=1*bpb58i*FPAU*OTM2NTExOTYzLjE3MzU0MDAxMjQ.*_ga*MTc3MTIyNzMwLjE3MzU0MDAxMjQ.*_ga_53S71ZZG1X*MTczNzkxMzk5My4yMi4xLjE3Mzc5MTQwMDguMC4wLjEwNDI4NjkzNjA.'
+print(Link_Of_Certificate);
